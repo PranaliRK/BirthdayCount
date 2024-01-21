@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BirthdayCount/static/css/main.927ef57d.css",
+    "main.js": "/BirthdayCount/static/js/main.57aa74df.js",
+    "index.html": "/BirthdayCount/index.html",
+    "main.927ef57d.css.map": "/BirthdayCount/static/css/main.927ef57d.css.map",
+    "main.57aa74df.js.map": "/BirthdayCount/static/js/main.57aa74df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.927ef57d.css",
+    "static/js/main.57aa74df.js"
+  ]
+}
