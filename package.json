@@ -2,7 +2,7 @@
 {
   "name": "birthday-card",
   "version": "0.1.0",
-  "homepage": "https://username.github.io/Birthday Card",
+  "homepage": "https://PranaliGK.github.io/Birthday-Card",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
